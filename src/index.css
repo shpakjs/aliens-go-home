@@ -1,4 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+
+/* другие правила ... */
 html, body {
+  font-family: "Nunito", sans-serif;
   overflow: hidden;
   height: 100%;
 }
